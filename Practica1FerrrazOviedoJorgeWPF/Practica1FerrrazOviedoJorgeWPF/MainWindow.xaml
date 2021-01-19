@@ -1,0 +1,60 @@
+﻿<Window x:Class="Practica1FerrrazOviedoJorgeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica1FerrrazOviedoJorgeWPF"
+        mc:Ignorable="d"
+        Title="Practica1FerrazOviedoJorgeWPF" Height="570" Width="750"
+        Background="Black" ResizeMode="NoResize">
+    <Grid x:Name="Practica1Window" Margin="0,0,0,-2.2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="597*"/>
+        </Grid.ColumnDefinitions>
+        <!--Labels Para un Textbox-->
+        <Label x:Name="DNILabel" Content="DNI:" HorizontalAlignment="Left" Margin="23,88,0,0" VerticalAlignment="Top" Height="26" Width="73" Background="DarkRed" Foreground="AliceBlue" Grid.ColumnSpan="4"/>
+        <Label Name="NombreLabel" Content="Nombre:" HorizontalAlignment="Left" Margin="23,118,0,0" VerticalAlignment="Top" Height="26" Width="73" Background="DarkRed" Foreground="AliceBlue" Grid.ColumnSpan="4"/>
+        <Label Name="Apellido1Label" Content="Apellido 1:" HorizontalAlignment="Left" Margin="23,148,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.661,3.758" Height="26" Width="73" Background="DarkRed" Foreground="AliceBlue" Grid.ColumnSpan="4"/>
+        <Label Name="Apellido2Label" Content="Apellido 2:" HorizontalAlignment="Left" Margin="23,178,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.661,3.758" Height="26" Width="73" Background="DarkRed" Foreground="AliceBlue" Grid.ColumnSpan="4"/>
+        <!--Labels Orientativos-->
+        <Label Name="PermConducirLabel" Content="Permisos Conducir:" HorizontalAlignment="Left" Margin="23,255,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.661,3.758" Height="26" Width="112" Grid.ColumnSpan="5" Foreground="AliceBlue"/>
+        <Label x:Name="IdentificadorPersonaLabel" Content="Introduzca sus datos:" HorizontalAlignment="Left" Margin="23,57,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.661,3.758" Height="26" Width="122" Foreground="AliceBlue" Grid.ColumnSpan="5"/>
+        <Label x:Name="IdentificadorSexoLabel" Content="Elija su sexo:" HorizontalAlignment="Left" Margin="325,57,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.661,3.758" Height="26" Width="122" Foreground="AliceBlue" Grid.Column="4"/>
+        <Label x:Name="IdentificadorEstudiosLabel" Content="Elija su formación:" HorizontalAlignment="Left" Margin="325,255,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.661,3.758" Height="26" Width="122" Foreground="AliceBlue" Grid.Column="4"/>
+
+
+        <TextBox x:Name="DNItextbox" VerticalContentAlignment="Center" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="28.8,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="194" Foreground="Black" Grid.ColumnSpan="2" TextChanged="DNItextbox_TextChanged"/>
+        <TextBox x:Name="NombreTextbox" VerticalContentAlignment="Center" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="28.8,118,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="194" Foreground="Black" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="Apellido1Textbox" VerticalContentAlignment="Center" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="28.8,148,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="194" Foreground="Black" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="Apellido2Textbox" VerticalContentAlignment="Center" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="28.8,178,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="194" Foreground="Black" Grid.ColumnSpan="2"/>
+        <WrapPanel x:Name="ConducirPanel" HorizontalAlignment="Left" Orientation="Vertical" Height="157" Margin="23,286,0,0" VerticalAlignment="Top" Width="267" Grid.ColumnSpan="5" Background="DarkRed">
+            <CheckBox x:Name="ACheckBox" Content="A" Margin="8" Foreground="AliceBlue"/>
+            <CheckBox x:Name="BCheckBox" Content="B" Margin="8" Foreground="AliceBlue"/>
+            <CheckBox x:Name="CCheckBox" Content="C" Margin="8" Foreground="AliceBlue"/>
+            <CheckBox x:Name="DCheckBox" Content="D" Margin="8" Foreground="AliceBlue"/>
+            <CheckBox x:Name="ECheckBox" Content="E" Margin="8" Foreground="AliceBlue"/>
+        </WrapPanel>
+        <WrapPanel x:Name="SexoPanel" Background="DarkRed" Grid.Column="4" HorizontalAlignment="Left" Height="120" Margin="325,88,0,0" VerticalAlignment="Top" Width="270" Orientation="Vertical">
+            <RadioButton Name="HombreRadioButton" Content="Hombre" Margin="20,25" Foreground="AliceBlue"/>
+            <RadioButton Name="MujerRadioButton" Content="Mujer" Margin="20" Foreground="AliceBlue"/>
+        </WrapPanel>
+        <WrapPanel x:Name="FormacionPanel" Orientation="Vertical" Grid.Column="4" HorizontalAlignment="Left" Height="157" Margin="325,286,0,0" VerticalAlignment="Top" Width="270" Background="DarkRed">
+            <RadioButton x:Name="NingunaRadioButton" Content="Ninguna" Margin="25,5" Foreground="AliceBlue" Checked="NingunaRadioButton_Checked"/>
+            <RadioButton x:Name="ESORadioButton" Content="ESO" Margin="25,5" Foreground="AliceBlue" Checked="ESORadioButton_Checked"/>
+            <RadioButton x:Name="BachilleratoRadioButton" Content="Bachillerato" Margin="25,5" Foreground="AliceBlue" Checked="BachilleratoRadioButton_Checked"/>
+            <RadioButton x:Name="FPRadioButton" Content="FP" Margin="25,5" Foreground="AliceBlue" Checked="FPRadioButton_Checked"/>
+            <RadioButton x:Name="UniversitariaRadioButton" Content="Universitaria" Margin="25,5" Foreground="AliceBlue" Checked="UniversitariaRadioButton_Checked"/>
+            <RadioButton x:Name="OtraRadioButton" Content="Otra:" Margin="25,5" Foreground="AliceBlue" Width="85" Checked="OtraCheckBox_Checked" DataContextChanged="OtraRadioButton_DataContextChanged"/>
+
+        </WrapPanel>
+        <TextBox x:Name="OtrosTextBox" VerticalContentAlignment="Center" TextWrapping="Wrap" Text="" Grid.Column="4" Margin="419,413,56,99.2"/>
+        <Button x:Name="GuardarButton" Grid.ColumnSpan="5" Content="Guardar" HorizontalAlignment="Left" Margin="23,470,0,0" VerticalAlignment="Top" Width="120" Height="30" Click="GuardarButton_Click"/>
+        <Button x:Name="BuscarButton" Content="Buscar" HorizontalAlignment="Left" Margin="66,470,0,0" VerticalAlignment="Top" Width="120" Grid.Column="4" Height="30" Click="BuscarButton_Click"/>
+        <TextBox x:Name="BuscarTextBox" VerticalContentAlignment="Center" TextWrapping="Wrap" Text="" Grid.Column="4" Margin="255,470,45,34.2" />
+
+    </Grid>
+</Window>
