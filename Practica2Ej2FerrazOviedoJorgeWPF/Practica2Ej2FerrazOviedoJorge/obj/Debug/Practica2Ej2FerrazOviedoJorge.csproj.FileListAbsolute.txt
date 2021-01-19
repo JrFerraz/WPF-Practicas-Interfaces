@@ -1,0 +1,30 @@
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\bin\Debug\Practica2Ej2FerrazOviedoJorge.exe.config
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\bin\Debug\Practica2Ej2FerrazOviedoJorge.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\bin\Debug\Practica2Ej2FerrazOviedoJorge.pdb
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.csprojAssemblyReference.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\MainWindow.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\App.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge_MarkupCompile.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge_MarkupCompile.lref
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\MainWindow.baml
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.g.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.Properties.Resources.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.csproj.GenerateResource.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.csproj.CoreCompileInputs.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.pdb
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\bin\Debug\Practica2Ej2FerrazOviedoJorge.exe.config
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\bin\Debug\Practica2Ej2FerrazOviedoJorge.exe
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\bin\Debug\Practica2Ej2FerrazOviedoJorge.pdb
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.csprojAssemblyReference.cache
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\MainWindow.g.cs
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\App.g.cs
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge_MarkupCompile.cache
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge_MarkupCompile.lref
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\MainWindow.baml
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.g.resources
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.Properties.Resources.resources
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.csproj.GenerateResource.cache
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.csproj.CoreCompileInputs.cache
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.exe
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica2Ej2FerrazOviedoJorge\Practica2Ej2FerrazOviedoJorge\obj\Debug\Practica2Ej2FerrazOviedoJorge.pdb
