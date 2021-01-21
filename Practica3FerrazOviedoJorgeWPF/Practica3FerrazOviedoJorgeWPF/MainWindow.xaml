@@ -1,0 +1,31 @@
+﻿<Window x:Class="Practica3FerrazOviedoJorgeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica3FerrazOviedoJorgeWPF"
+        mc:Ignorable="d"
+        Background="#F4CC70"
+        Name="MiWindow"
+        Title="Practica3 Jorge Ferraz" Height="450" Width="800">
+    <Grid x:Name="ContenedorPractica" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="327*"/>
+            <ColumnDefinition Width="466*"/>
+        </Grid.ColumnDefinitions>
+        <Label Foreground="#20948B" Name="FotoLabel" Content="Foto" HorizontalAlignment="Left" Margin="258.8,335,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Name="EmailLabel" Height="27" Content="Email:" Foreground="#F4CC70" Background="#20948B" HorizontalAlignment="Left" Margin="31,109,0,0" VerticalAlignment="Top" Width="63"/>
+        <Label Name="TeléfonoLabel" Height="27" Foreground="#F4CC70" Background="#20948B" Content="Teléfono:" HorizontalAlignment="Left" Margin="31,67,0,0" VerticalAlignment="Top" Width="63"/>
+        <Label Name="NombreLabel" Foreground="#F4CC70" Background="#20948B" Content="Nombre:" HorizontalAlignment="Left" Margin="31,27,0,0" VerticalAlignment="Top" Height="27" Width="63"/>
+        <TextBox VerticalContentAlignment="Center" Name="EmailTextBox" HorizontalAlignment="Left" BorderBrush="#20948B" Foreground="#F4CC70" Background="#20948B" Height="27" Margin="94,109,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="266" IsEnabled="False" Grid.ColumnSpan="2"/>
+        <TextBox VerticalContentAlignment="Center" x:Name="TelefonoTextBox" BorderBrush="#20948B" Height="27" Foreground="#F4CC70" Background="#20948B" HorizontalAlignment="Left" Margin="94,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="264" TextChanged="TelefonoTextBox_TextChanged" IsEnabled="False" Grid.ColumnSpan="2"/>
+        <TextBox VerticalContentAlignment="Center" Name="NombreTextBox" BorderBrush="#20948B" HorizontalAlignment="Left" Foreground="#F4CC70" Background="#20948B" Height="27" Margin="94,27,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="264" TextChanged="NombreTextBox_TextChanged" DragLeave="NombreTextBox_DragLeave" PreviewTextInput="NombreTextBox_PreviewTextInput" IsEnabled="False" Grid.ColumnSpan="2"/>
+        <Image x:Name="FotoPictureBox" HorizontalAlignment="Left" Height="275" Margin="127.8,31,0,0" VerticalAlignment="Top" Width="299" GotFocus="FotoPictureBox_GotFocus" Grid.Column="1"/>
+        <ListBox Name="MiListBox" Foreground="#F4CC70" Background="#20948B" HorizontalAlignment="Left" Height="139" Margin="31,167,0,0" VerticalAlignment="Top" Width="329" SelectionChanged="MiListBox_SelectionChanged" Grid.ColumnSpan="2"/>
+        <Button Name="EliminarButton" Foreground="#F4CC70" Background="#20948B" Content="Eliminar" HorizontalAlignment="Left" Margin="270,335,0,0" VerticalAlignment="Top" Width="90" Height="30" Click="EliminarButton_Click" Grid.ColumnSpan="2"/>
+        <Button Name="ModificarButton" Foreground="#F4CC70" Background="#20948B" Content="Modificar" Margin="150,335,87.2,0" VerticalAlignment="Top" Height="30" Click="ModificarButton_Click"/>
+        <Button Name="AñadirButton" Foreground="#F4CC70" Background="#20948B" Content="Nuevo" HorizontalAlignment="Left" Margin="30,335,0,0" VerticalAlignment="Top" Width="90" Height="30" Click="AñadirButton_Click"/>
+        <Button x:Name="AñadirFotoButton" Background="#20948B" Content="Añadir Foto" HorizontalAlignment="Left" Margin="231.8,335,0,0" VerticalAlignment="Top" Foreground="#F4CC70" Width="90" Height="30" Click="AñadirFotoButton_Click" IsEnabled="False" Grid.Column="1"/>
+
+    </Grid>
+</Window>

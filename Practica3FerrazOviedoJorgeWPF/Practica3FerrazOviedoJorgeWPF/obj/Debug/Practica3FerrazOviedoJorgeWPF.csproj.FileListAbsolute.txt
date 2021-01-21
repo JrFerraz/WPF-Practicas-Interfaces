@@ -1,0 +1,30 @@
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\bin\Debug\Practica3FerrazOviedoJorgeWPF.exe.config
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\bin\Debug\Practica3FerrazOviedoJorgeWPF.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\bin\Debug\Practica3FerrazOviedoJorgeWPF.pdb
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.csprojAssemblyReference.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\App.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF_MarkupCompile.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF_MarkupCompile.lref
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\MainWindow.baml
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.g.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.Properties.Resources.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.csproj.GenerateResource.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.csproj.CoreCompileInputs.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.pdb
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.csprojAssemblyReference.cache
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\App.g.cs
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF_MarkupCompile.cache
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF_MarkupCompile.lref
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.exe
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.pdb
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\bin\Debug\Practica3FerrazOviedoJorgeWPF.exe.config
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\bin\Debug\Practica3FerrazOviedoJorgeWPF.exe
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\bin\Debug\Practica3FerrazOviedoJorgeWPF.pdb
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\MainWindow.baml
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.g.resources
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.Properties.Resources.resources
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.csproj.GenerateResource.cache
+C:\Users\jfero\Desktop\Estudios\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica3FerrazOviedoJorgeWPF\Practica3FerrazOviedoJorgeWPF\obj\Debug\Practica3FerrazOviedoJorgeWPF.csproj.CoreCompileInputs.cache
