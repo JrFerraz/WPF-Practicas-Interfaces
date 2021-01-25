@@ -1,0 +1,51 @@
+﻿<Window x:Name="Practica4Window" x:Class="Practica4FerrazOviedoJorgeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica4FerrazOviedoJorgeWPF"
+        mc:Ignorable="d"
+        Background="#0E0B16"
+        Title="FerrazOviedoJorgePractica4" Height="575" Width="900">
+    <Grid Margin="0,0,-6.4,0">
+        <Rectangle Fill="#4717F6" x:Name="TrabajadorRectangle" HorizontalAlignment="Left" Height="160" Stroke="Black" VerticalAlignment="Top" Width="418" Margin="17,36,0,0"/>
+        <Label Foreground="#E7DFDD" x:Name="IdTrabajadorLabel" Content="Identificación do Traballador" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="220"/>
+        <Label Foreground="#E7DFDD" x:Name="ProvinciaDoTraballadorLabel" Content="Provincia do Traballador" HorizontalAlignment="Left" Margin="10,201,0,0" VerticalAlignment="Top" Width="220"/>
+        <Label Foreground="#E7DFDD" x:Name="ProfesionDoTraballadorLabel" Content="Profesion do traballador" HorizontalAlignment="Left" Margin="10,321,0,0" VerticalAlignment="Top" Width="220"/>
+        <Label Foreground="#E7DFDD" x:Name="TraballadoresDisponiblesLabel" Content="Traballadores disponibles" HorizontalAlignment="Left" Margin="456,10,0,0" VerticalAlignment="Top" Width="220"/>
+        <Label Foreground="#E7DFDD" x:Name="DetalleDoTraballador" Content="Detalle do Traballador" HorizontalAlignment="Left" Margin="456,305,0,0" VerticalAlignment="Top" Width="220"/>
+        <Label x:Name="DNILabel" Foreground="#E7DFDD" Background="#A239CA" Content="DNI" HorizontalAlignment="Left" Margin="27,50,0,0" VerticalAlignment="Top" Width="87" BorderThickness="0" BorderBrush="White" Height="27"/>
+        <Label x:Name="NameLabel" Foreground="#E7DFDD" Background="#A239CA" Content="Name" HorizontalAlignment="Left" Margin="27,81,0,0" VerticalAlignment="Top" Width="87" Height="27"/>
+        <Label x:Name="Apellido1Label" Foreground="#E7DFDD" Background="#A239CA" Content="Apellido 1" HorizontalAlignment="Left" Margin="27,114,0,0" VerticalAlignment="Top" Width="87" Height="27"/>
+        <Label x:Name="Apellido2Label" Foreground="#E7DFDD" Background="#A239CA" Content="Apellido 2" HorizontalAlignment="Left" Margin="27,148,0,0" VerticalAlignment="Top" Width="87" Height="26"/>
+        <Rectangle Fill="#4717F6" x:Name="ProvinciaRectangle" HorizontalAlignment="Left" Height="84" Stroke="Black" VerticalAlignment="Top" Width="418" Margin="17,232,0,0"/>
+        <Rectangle Fill="#4717F6" HorizontalAlignment="Left" Height="130" Stroke="Black" VerticalAlignment="Top" Width="418" Margin="17,347,0,0"/>
+        <Rectangle x:Name="TraballadoresRectangle" Fill="#4717F6" HorizontalAlignment="Left" Height="226" Stroke="Black" VerticalAlignment="Top" Width="418" Margin="456,36,0,0"/>
+        <Rectangle x:Name="DetallesRectangle" Fill="#4717F6" HorizontalAlignment="Left" Height="141" Stroke="Black" VerticalAlignment="Top" Width="418" Margin="456,336,0,0"/>
+        <TextBox BorderBrush="White" x:Name="DNITextBox" Foreground="#E7DFDD" Background="#A239CA" HorizontalAlignment="Left" Height="27" Margin="117,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" BorderThickness="0" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="NameTextBox" Foreground="#E7DFDD" Background="#A239CA" HorizontalAlignment="Left" Height="27" Margin="117,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" BorderThickness="0" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="Apellido1TextBox" Foreground="#E7DFDD" Background="#A239CA" HorizontalAlignment="Left" Height="27" Margin="117,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" BorderThickness="0" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="Apellido2TextBox" Foreground="#E7DFDD" Background="#A239CA" HorizontalAlignment="Left" Height="26" Margin="117,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" BorderThickness="0" VerticalContentAlignment="Center"/>
+        <TextBox  x:Name="AñadirProvinciaTextBox" HorizontalAlignment="Left" Height="26" Margin="27,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="267" BorderThickness="0" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="ProvinciaComboBox" HorizontalAlignment="Left" Margin="27,245,0,0" VerticalAlignment="Top" Width="267"/>
+        <Button BorderThickness="1" BorderBrush="White" Foreground="#E7DFDD" Background="#A239CA" x:Name="EliminarProvinciaButton" Content="Eliminar Provincia" HorizontalAlignment="Left" Margin="307,245,0,0" VerticalAlignment="Top" Width="108" Height="22" Click="EliminarProvinciaButton_Click"/>
+        <Button BorderThickness="1" BorderBrush="White" Foreground="#E7DFDD" Background="#A239CA" x:Name="EngadirProvinciaButton" Content="Engadir provincia" HorizontalAlignment="Left" Margin="307,276,0,0" VerticalAlignment="Top" Width="108" Height="26" Click="EngadirProvinciaButton_Click"/>
+        <ListBox Foreground="#E7DFDD" Background="#0E0B16" x:Name="ProfesionListBox" HorizontalAlignment="Left" Height="75" Margin="27,360,0,0" VerticalAlignment="Top" Width="282"/>
+        <Button BorderThickness="1" BorderBrush="White" Foreground="#E7DFDD" Background="#A239CA" x:Name="EliminarProfesionButton" Content="Eliminar Profesion" HorizontalAlignment="Left" Margin="314,360,0,0" VerticalAlignment="Top" Width="110" Height="22" Click="EliminarProfesionButton_Click"/>
+        <Button BorderThickness="1" BorderBrush="White" Foreground="#E7DFDD" Background="#A239CA" x:Name="EngadirProfesionButton" Content="Engadir Profesion" HorizontalAlignment="Left" Margin="314,440,0,0" VerticalAlignment="Top" Width="110" Height="26" Click="EngadirProfesionButton_Click"/>
+        <TextBox BorderThickness="1" BorderBrush="White" Foreground="#E7DFDD" Background="#A239CA" x:Name="ProfesionTextBox" HorizontalAlignment="Left" Height="26" Margin="27,440,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="282" VerticalContentAlignment="Center"/>
+        <Button Foreground="#E7DFDD" Background="#A239CA" x:Name="EngadirTraballadorButton" Content="Engadir Traballador" HorizontalAlignment="Left" Margin="17,489,0,0" VerticalAlignment="Top" Width="418" Height="31" Click="EngadirTraballadorButton_Click"/>
+        <ListView Foreground="White" Background="#0E0B16" x:Name="TraballadoresListView" HorizontalAlignment="Left" Height="203" Margin="465,50,0,0" VerticalAlignment="Top" Width="400" SelectionChanged="TraballadoresListView_SelectionChanged">
+            <ListView.View>
+                <GridView AllowsColumnReorder="False">
+                    <GridViewColumn Header="Nombre e Apellidos" Width="150"/>
+                    <GridViewColumn Header="Provincia" Width="100"/>
+                    <GridViewColumn Header="Profesión" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Foreground="#E7DFDD" Background="#A239CA" x:Name="EliminarTraballadorButton" Content="Eliminar Traballador" HorizontalAlignment="Left" Margin="456,267,0,0" VerticalAlignment="Top" Width="418" Height="33" Click="EliminarTraballadorButton_Click"/>
+        <Button Foreground="#E7DFDD" Background="#A239CA" x:Name="CerrarAplicacionButton" Content="Pechar a aplicación" HorizontalAlignment="Left" Margin="456,489,0,0" VerticalAlignment="Top" Width="418" Height="31" Click="CerrarAplicacionButton_Click"/>
+        <ListBox Foreground="#E7DFDD" Background="#0E0B16" x:Name="DetallesListBox" HorizontalAlignment="Left" Height="119" Margin="465,347,0,0" VerticalAlignment="Top" Width="400"/>
+    </Grid>
+</Window>
