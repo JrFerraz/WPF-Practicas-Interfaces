@@ -1,0 +1,15 @@
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\bin\Debug\Practica6FerrazOviedoJorgeWPF.exe.config
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\bin\Debug\Practica6FerrazOviedoJorgeWPF.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\bin\Debug\Practica6FerrazOviedoJorgeWPF.pdb
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF.csprojAssemblyReference.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\App.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF_MarkupCompile.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF_MarkupCompile.lref
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\MainWindow.baml
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF.g.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF.Properties.Resources.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF.csproj.GenerateResource.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF.csproj.CoreCompileInputs.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica6FerrazOviedoJorgeWPF\Practica6FerrazOviedoJorgeWPF\obj\Debug\Practica6FerrazOviedoJorgeWPF.pdb
