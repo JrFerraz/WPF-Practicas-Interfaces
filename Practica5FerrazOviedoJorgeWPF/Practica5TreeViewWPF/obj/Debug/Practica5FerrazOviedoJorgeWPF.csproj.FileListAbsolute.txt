@@ -1,0 +1,15 @@
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5FerrazOviedoJorgeWPF.csprojAssemblyReference.cache
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\MainWindow.g.cs
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\App.g.cs
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF_MarkupCompile.cache
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF_MarkupCompile.lref
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.exe
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.pdb
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\bin\Debug\Practica5TreeViewWPF.exe.config
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\bin\Debug\Practica5TreeViewWPF.exe
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\bin\Debug\Practica5TreeViewWPF.pdb
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\MainWindow.baml
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.g.resources
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.Properties.Resources.resources
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5FerrazOviedoJorgeWPF.csproj.GenerateResource.cache
+F:\DAM2\DESENVOLVEMENTO DE INTERFACES\WPF\Practica5FerrazOviedoJorgeWPF\Practica5TreeViewWPF\obj\Debug\Practica5FerrazOviedoJorgeWPF.csproj.CoreCompileInputs.cache

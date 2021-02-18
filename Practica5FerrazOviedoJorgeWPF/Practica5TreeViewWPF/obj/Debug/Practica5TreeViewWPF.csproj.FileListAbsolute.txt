@@ -1,0 +1,15 @@
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\bin\Debug\Practica5TreeViewWPF.exe.config
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\bin\Debug\Practica5TreeViewWPF.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\bin\Debug\Practica5TreeViewWPF.pdb
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.csprojAssemblyReference.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\MainWindow.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\App.g.cs
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF_MarkupCompile.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF_MarkupCompile.lref
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\MainWindow.baml
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.g.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.Properties.Resources.resources
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.csproj.GenerateResource.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.csproj.CoreCompileInputs.cache
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.exe
+C:\Users\jorge.ferrazoviedo\source\repos\Practica5TreeViewWPF\Practica5TreeViewWPF\obj\Debug\Practica5TreeViewWPF.pdb
