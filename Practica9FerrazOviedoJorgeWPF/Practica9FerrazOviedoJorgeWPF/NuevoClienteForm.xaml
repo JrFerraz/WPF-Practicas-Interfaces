@@ -1,0 +1,24 @@
+﻿<Window x:Class="Practica9FerrazOviedoJorgeWPF.NuevoClienteForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica9FerrazOviedoJorgeWPF"
+        mc:Ignorable="d"
+        Title="NuevoClienteForm" Height="350" Width="600">
+    <Grid>
+        <Label x:Name="DNILabel" Content="DNI" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="51,16,0,0"/>
+        <TextBox x:Name="DNITextBox" HorizontalAlignment="Left" Height="23" Margin="261,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247"/>
+        <Label x:Name="NombreLabel" Content="Nombre" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="51,66,0,0"/>
+        <TextBox x:Name="NombreTextBox" HorizontalAlignment="Left" Height="23" Margin="261,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247"/>
+        <Label x:Name="Apellido1Label" Content="Apellido 1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="51,118,0,0"/>
+        <TextBox x:Name="ApellidoTextBox" HorizontalAlignment="Left" Height="23" Margin="261,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247"/>
+        <Label x:Name="Apellido2Label" Content="Apellido 2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="51,171,0,0"/>
+        <TextBox x:Name="Apellido2TextBox" HorizontalAlignment="Left" Height="23" Margin="261,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247"/>
+        <Label x:Name="TelefonoLabel" Content="Tlf" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="51,230,0,0"/>
+        <TextBox x:Name="TelefonoTextBox" HorizontalAlignment="Left" Height="23" Margin="261,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247"/>
+        <Button x:Name="GuardarButton" Content="Guardar" HorizontalAlignment="Left" Margin="124,288,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="GuardarButton_Click"/>
+        <Button x:Name="CancelarButton" Content="Cancelar" HorizontalAlignment="Left" Margin="261,288,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="CancelarButton_Click"/>
+
+    </Grid>
+</Window>
